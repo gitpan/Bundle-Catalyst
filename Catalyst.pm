@@ -2,11 +2,11 @@ package Bundle::Catalyst;
 
 use strict;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 =head1 NAME
 
-Bundle::Catalyst - All Catalyst goodness
+Bundle::Catalyst - Most of Catalyst goodness
 
 =head1 SYNOPSIS
 
@@ -14,35 +14,19 @@ C<perl -MCPAN -e 'install Bundle::Catalyst'>
 
 =head1 DESCRIPTION
 
-Installs all the Catalyst modules for you.
+Installs most of the Catalyst modules for you.
 
 =head1 CONTENTS
 
 Catalyst
 
-Catalyst::Plugin::Authentication::CDBI
-
-Catalyst::Plugin::Email
-
-Catalyst::Plugin::FillInForm
-
 Catalyst::Plugin::FormValidator
-
-Catalyst::Plugin::I18N
 
 Catalyst::Plugin::Session::FastMmap
 
 Catalyst::Plugin::Static
 
 Catalyst::Model::CDBI
-
-Catalyst::Model::CDBI::CRUD
-
-Catalyst::Model::Plucene
-
-Catalyst::View::REST::XML
-
-Catalyst::View::REST::YAML
 
 Catalyst::View::TT
 
