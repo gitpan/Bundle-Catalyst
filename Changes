@@ -1,5 +1,7 @@
 Revision history for Perl extension Bundle::Catalyst.
 
+0.03  Fri Apr 15 15:00:00 2005
+       - Updated to include prototype plugin.
 0.02  Mon Feb 28 10:00:00 2005
 
         - updated list

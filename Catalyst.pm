@@ -2,7 +2,7 @@ package Bundle::Catalyst;
 
 use strict;
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 =head1 NAME
 
@@ -21,6 +21,8 @@ Installs most of the Catalyst modules for you.
 Catalyst
 
 Catalyst::Plugin::FormValidator
+
+Catalyst::Plugin::Prototype
 
 Catalyst::Plugin::Session::FastMmap
 
