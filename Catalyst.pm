@@ -2,7 +2,7 @@ package Bundle::Catalyst;
 
 use strict;
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 =head1 NAME
 
@@ -22,15 +22,33 @@ Catalyst
 
 Catalyst::Plugin::FormValidator
 
+Catalyst::Plugin::FillInForm
+
 Catalyst::Plugin::Prototype
 
-Catalyst::Plugin::Session::FastMmap
+Catalyst::Plugin::Singleton
 
-Catalyst::Plugin::Static
+Catalyst::Plugin::DefaultEnd
 
-Catalyst::Model::CDBI
+Catalyst::Plugin::SubRequest
+
+Catalyst::Plugin::Session
+
+Catalyst::Plugin::Session::Store::File
+
+Catalyst::Plugin::Session::State::Cookie
+
+Catalyst::Plugin::Session::State::URI
+
+Catalyst::Model::DBIC::Plain
+
+Catalyst::Model::DBIC
 
 Catalyst::View::TT
+
+Test::WWW::Mechanize::Catalyst
+
+DBD::SQLite
 
 =head1 AUTHOR
 
