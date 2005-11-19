@@ -2,11 +2,11 @@ package Bundle::Catalyst;
 
 use strict;
 
-our $VERSION = '0.04';
+our $VERSION = '0.05';
 
 =head1 NAME
 
-Bundle::Catalyst - Most of Catalyst goodness
+Bundle::Catalyst - All you need to start with Catalyst
 
 =head1 SYNOPSIS
 
@@ -14,13 +14,15 @@ C<perl -MCPAN -e 'install Bundle::Catalyst'>
 
 =head1 DESCRIPTION
 
-Installs most of the Catalyst modules for you.
+Installs everything you need to write serious Catalyst applications.
 
 =head1 CONTENTS
 
 Catalyst
 
 Catalyst::Plugin::FormValidator
+
+Catalyst::Plugin::FormValidator::Simple
 
 Catalyst::Plugin::FillInForm
 
