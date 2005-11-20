@@ -1,24 +1,48 @@
 NAME
-    Bundle::Catalyst - Most of Catalyst goodness
+    Bundle::Catalyst - All you need to start with Catalyst
 
 SYNOPSIS
     "perl -MCPAN -e 'install Bundle::Catalyst'"
 
 DESCRIPTION
-    Installs most of the Catalyst modules for you.
+    Installs everything you need to write serious Catalyst applications.
 
 CONTENTS
     Catalyst
 
     Catalyst::Plugin::FormValidator
 
-    Catalyst::Plugin::Session::FastMmap
+    Catalyst::Plugin::FormValidator::Simple
 
-    Catalyst::Plugin::Static
+    Catalyst::Plugin::FillInForm
 
-    Catalyst::Model::CDBI
+    Catalyst::Plugin::Prototype
+
+    Catalyst::Plugin::Singleton
+
+    Catalyst::Plugin::DefaultEnd
+
+    Catalyst::Plugin::SubRequest
+
+    Catalyst::Plugin::Session
+
+    Catalyst::Plugin::Session::Store::File
+
+    Catalyst::Plugin::Session::State::Cookie
+
+    Catalyst::Plugin::Session::State::URI
+
+    Catalyst::Model::DBIC::Plain
+
+    Catalyst::Model::DBIC
 
     Catalyst::View::TT
+
+    Test::WWW::Mechanize::Catalyst
+
+    DBD::SQLite
+
+    YAML
 
 AUTHOR
     Sebastian Riedel, "sri@oook.de"

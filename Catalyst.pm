@@ -2,7 +2,7 @@ package Bundle::Catalyst;
 
 use strict;
 
-our $VERSION = '0.05';
+our $VERSION = '0.06';
 
 =head1 NAME
 
@@ -18,39 +18,41 @@ Installs everything you need to write serious Catalyst applications.
 
 =head1 CONTENTS
 
-Catalyst
+L<Catalyst>
 
-Catalyst::Plugin::FormValidator
+L<Catalyst::Plugin::FormValidator>
 
-Catalyst::Plugin::FormValidator::Simple
+L<Catalyst::Plugin::FormValidator::Simple>
 
-Catalyst::Plugin::FillInForm
+L<Catalyst::Plugin::FillInForm>
 
-Catalyst::Plugin::Prototype
+L<Catalyst::Plugin::Prototype>
 
-Catalyst::Plugin::Singleton
+L<Catalyst::Plugin::Singleton>
 
-Catalyst::Plugin::DefaultEnd
+L<Catalyst::Plugin::DefaultEnd>
 
-Catalyst::Plugin::SubRequest
+L<Catalyst::Plugin::SubRequest>
 
-Catalyst::Plugin::Session
+L<Catalyst::Plugin::Session>
 
-Catalyst::Plugin::Session::Store::File
+L<Catalyst::Plugin::Session::Store::File>
 
-Catalyst::Plugin::Session::State::Cookie
+L<Catalyst::Plugin::Session::State::Cookie>
 
-Catalyst::Plugin::Session::State::URI
+L<Catalyst::Plugin::Session::State::URI>
 
-Catalyst::Model::DBIC::Plain
+L<Catalyst::Model::DBIC::Plain>
 
-Catalyst::Model::DBIC
+L<Catalyst::Model::DBIC>
 
-Catalyst::View::TT
+L<Catalyst::View::TT>
 
-Test::WWW::Mechanize::Catalyst
+L<Test::WWW::Mechanize::Catalyst>
 
-DBD::SQLite
+L<DBD::SQLite>
+
+L<YAML>
 
 =head1 AUTHOR
 
