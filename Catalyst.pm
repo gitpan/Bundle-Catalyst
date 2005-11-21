@@ -2,7 +2,7 @@ package Bundle::Catalyst;
 
 use strict;
 
-our $VERSION = '0.06';
+our $VERSION = '0.07';
 
 =head1 NAME
 
@@ -18,41 +18,41 @@ Installs everything you need to write serious Catalyst applications.
 
 =head1 CONTENTS
 
-L<Catalyst>
+Catalyst
 
-L<Catalyst::Plugin::FormValidator>
+Catalyst::Plugin::FormValidator
 
-L<Catalyst::Plugin::FormValidator::Simple>
+Catalyst::Plugin::FormValidator::Simple
 
-L<Catalyst::Plugin::FillInForm>
+Catalyst::Plugin::FillInForm
 
-L<Catalyst::Plugin::Prototype>
+Catalyst::Plugin::Prototype
 
-L<Catalyst::Plugin::Singleton>
+Catalyst::Plugin::Singleton
 
-L<Catalyst::Plugin::DefaultEnd>
+Catalyst::Plugin::DefaultEnd
 
-L<Catalyst::Plugin::SubRequest>
+Catalyst::Plugin::SubRequest
 
-L<Catalyst::Plugin::Session>
+Catalyst::Plugin::Session
 
-L<Catalyst::Plugin::Session::Store::File>
+Catalyst::Plugin::Session::Store::File
 
-L<Catalyst::Plugin::Session::State::Cookie>
+Catalyst::Plugin::Session::State::Cookie
 
-L<Catalyst::Plugin::Session::State::URI>
+Catalyst::Plugin::Session::State::URI
 
-L<Catalyst::Model::DBIC::Plain>
+Catalyst::Model::DBIC::Plain
 
-L<Catalyst::Model::DBIC>
+Catalyst::Model::DBIC
 
-L<Catalyst::View::TT>
+Catalyst::View::TT
 
-L<Test::WWW::Mechanize::Catalyst>
+Test::WWW::Mechanize::Catalyst
 
-L<DBD::SQLite>
+DBD::SQLite
 
-L<YAML>
+YAML
 
 =head1 AUTHOR
 
@@ -60,8 +60,8 @@ Sebastian Riedel, C<sri@oook.de>
 
 =head1 LICENSE
 
-This library is free software. You can redistribute it and/or modify it under
-the same terms as perl itself.
+This library is free software, you can redistribute it and/or modify it under
+the same terms as Perl itself.
 
 =cut
 
